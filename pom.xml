@@ -296,7 +296,7 @@
 		<build>
 		<defaultGoal>install</defaultGoal>
 		<directory>${basedir}/target</directory>
-		<finalName>test123.test123-webapp</finalName>
+		<finalName>egov5</finalName>
 		<pluginManagement>
 			<plugins>
 				<plugin>
